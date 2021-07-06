@@ -1,0 +1,134 @@
+body{
+  overflow: hidden; 
+ }
+.lM
+{
+  font-size: 20px;
+  color: aqua;
+  font-family: cursive;
+}
+
+.design
+{
+  border-radius: 50px;
+  width: 350px;
+  height: 80px;
+  color: aqua;
+  border-color: white;
+  background-color: black;
+}
+
+
+
+body {
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+canvas {
+  width: 100%;
+  height: 100%;
+}
+h1 {
+  font: 2.75em 'Cinzel', serif;
+  font-weight: 400;
+  letter-spacing: 0.35em;
+}
+
+
+
+
+
+
+.b{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+    
+    top: 10%;
+    left: 10%;
+}
+
+.b1{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+   
+    top: 30%;
+    left: 10%;
+}
+
+.b3{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+    
+    top: 50%;
+    left: 10%;
+}
+
+.b4{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+   
+    top: 70%;
+    left: 10%;
+}
+
+
+.a3{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+   
+    top: 70%;
+    left: 60%;
+}
+
+
+.a2{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+   
+    top: 50%;
+    left: 60%;
+}
+
+
+.a1{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+   
+    top: 30%;
+    left: 60%;
+}
+
+
+.a{
+    visibility: visible;
+    position: absolute;
+    padding-right: 70px;
+   
+    top: 10%;
+    left: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+.shan{
+  height: 19%;
+  width: 100%;
+  padding-top: 0px;
+  border-radius: 60px;
+}
