@@ -47,9 +47,9 @@ canvas {
   height: 100%;
 }
 h1 {
-  font: 2.75em 'Cinzel', serif;
-  font-weight: 400;
-  letter-spacing: 0.35em;
+  font: 1.75em 'Cinzel', serif;
+  font-weight: 300;
+  letter-spacing: 0.25em;
 }
 [class^="letter"] {
   -webkit-transition: opacity 3s ease;
